@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Hi, I'm Dan Vu
+- I'm interested in web development and computer engineering
+- I'm currently learning digital design and circuit analysis, and EE 205
+- I'm originally from Maui, my first UH campus was UH Maui College
+- I'm a Sophomore in Computer Engineering
+- I chose my major because I wanted to have a broad understanding of both electrical engineering and computer science
+- A fun fact about me is that I also play guitar
+- What do I wanna learn from EE 205? How to work with different developer tools and techniques, and hopefully how to work with other people
+- A book I'd recommend is The Martian by Andy Weir
