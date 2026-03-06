@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Hi, I'm Dan Vu
-- I'm interested in web development and electrical engineering
-- I'm currently learning about computer architecture and electrical engineering
-- I'm originally from Maui, my first UH campus was UH Maui College
-- I'm a Junior in Electrical engineering
-- I chose my major because I wanted to get to know bare-metal programming
+- I'm interested in signal processing, real time systems, and compression
+- I'm a 4th year in Electrical Engineering
+- I share a few personal scripts here, but not everything :)
 
